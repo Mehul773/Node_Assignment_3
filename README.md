@@ -15,7 +15,7 @@ Make sure you have Node.js and npm installed on your machine.
 Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Mehul773/Node_Assginment_1.git
+https://github.com/Mehul773/Node_Assignment_3.git
 ```
 
 Step 2: Install dependencies
@@ -29,7 +29,7 @@ npm install
 Step 3: Start the server
 
 ```bash
-node index.js
+npm start
 ```
 
 Step 4: Open your web browser and go to [http://localhost:3000/](http://localhost:3000/)
